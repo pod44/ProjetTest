@@ -496,5 +496,3 @@ function ajout_de_ma_sidebar() {
     'after_title' => '</h3>',
   ));
 }
-
-
