@@ -497,7 +497,3 @@ function ajout_de_ma_sidebar() {
   ));
 }
 
-
-
-
-
